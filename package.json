@@ -1,0 +1,26 @@
+{
+  "name": "headless",
+  "version": "1.0.0",
+  "description": "this is a headless test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanhuiGithub2018/headless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanhuiGithub2018/headless/issues"
+  },
+  "homepage": "https://github.com/hanhuiGithub2018/headless#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "puppeteer": "^1.7.0",
+    "puppeteer-core": "^1.7.0"
+  },
+  "dependencies": {}
+}

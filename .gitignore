@@ -1,6 +1,12 @@
+src/*.png
+src/*.jpg
+src/*.gif
+
 # Logs
 logs
 *.log
+*.swp
+.ideal/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
